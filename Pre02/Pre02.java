@@ -7,11 +7,11 @@ public class Demo{
     int x;
     String firstName, lastName;
 
-    x=10
-    firstName = "Mike"
-    lastName = "Zamansky"
+    x=10;
+    firstName = "Mike";
+    lastName = "Zamansky";
     x = x + 10;
 
-    system.out.println(firstName + lastName)
+    system.out.println(firstName + lastName);
   }
 }

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Main {
+class Temp {
   
   public static void main(String[] args) {
 

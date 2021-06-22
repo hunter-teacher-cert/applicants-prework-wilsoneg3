@@ -1,7 +1,7 @@
-cdimport java.io.*;
+import java.io.*;
 import java.util.*;
 
-public class Main {
+public class DateTest {
   public static void main(String[] args) {
   
   
