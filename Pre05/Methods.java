@@ -11,7 +11,7 @@ public class Methods {
           return false;
         }
 }
-    public boolean isTraingle(int a, int b, int c){
+  public boolean isTraingle(int a, int b, int c){
       if (a < (b+c) && b < (a+c) && c <(b+a)){
         return true;
       } else{
